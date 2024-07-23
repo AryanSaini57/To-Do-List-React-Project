@@ -55,8 +55,6 @@ Open your browser and navigate to `http://localhost:5173` to see the app in acti
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - For styling the application.
 
-- Special thanks to all the tutorials and documentation that helped me complete this project.
-
 ---
 
 You can customize the URL in the `git clone` command, the path to the screenshot, and other details as necessary.

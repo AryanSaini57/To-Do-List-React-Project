@@ -56,5 +56,3 @@ Open your browser and navigate to `http://localhost:5173` to see the app in acti
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - For styling the application.
 
 ---
-
-You can customize the URL in the `git clone` command, the path to the screenshot, and other details as necessary.

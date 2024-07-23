@@ -1,5 +1,3 @@
-Here's a description you can use for your GitHub repository:
-
 ---
 
 # To-Do List App
